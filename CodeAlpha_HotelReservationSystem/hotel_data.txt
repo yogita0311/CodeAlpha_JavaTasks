@@ -1,0 +1,7 @@
+ROOM|101|false
+ROOM|102|true
+ROOM|201|false
+ROOM|202|true
+ROOM|301|true
+BOOKING|1001|Siddhi D|2|2|201|300.0|Booked|Paid
+BOOKING|1002|Karan V|1|5|101|500.0|Booked|Paid
